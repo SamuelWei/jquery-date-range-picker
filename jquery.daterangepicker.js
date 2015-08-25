@@ -1760,7 +1760,7 @@
 						<label>'+lang('Hour')+': <input type="range" class="hour-range" name="hour" min="0" max="23"></label>\
 					</div>\
 					<div class="minute">\
-						<label>'+lang('Minute')+': <input type="range" class="minute-range" name="minute" min="0" max="59"></label>\
+						<label>'+lang('Minute')+': <input type="range" class="minute-range" name="minute" min="0" max="59" step="30" ></label>\
 					</div>';
 		}
 
